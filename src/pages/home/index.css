@@ -1,15 +1,10 @@
-.App{
-    height: 100vh;
-    width: 100%;
-    background-image: url("/src/assets/img/bg_03.jpg");
-    background-origin: border-box;
-    background-size: cover;
-    background-clip: border-box;
-    overflow: hidden;
-    overflow-y: scroll;
+.head-img-box{
+    text-align: center;
 }
-.main{
-    max-width: 1200px;
-    margin: 0 auto;
+.head-img-box .header-img{
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    margin: 30px;
     text-align: center;
 }
